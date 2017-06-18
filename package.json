@@ -1,0 +1,28 @@
+{
+  "name": "che_example",
+  "version": "1.0.0",
+  "description": "Create html element usage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitakrya/che_usage.git"
+  },
+  "keywords": [
+    "html",
+    "node",
+    "autogenerating"
+  ],
+  "author": "Vita Krya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitakrya/che_usage/issues"
+  },
+  "homepage": "https://github.com/vitakrya/che_usage#readme",
+  "dependencies": {
+    "create-html-element": "^1.0.0"
+  }
+}
